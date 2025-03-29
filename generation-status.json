@@ -1,0 +1,65 @@
+{
+  "projectDir": "סטודיו-לצילום-דלתא-1743266448454",
+  "status": {
+    "totalComponents": 8,
+    "completedComponents": 8,
+    "failedComponents": 0,
+    "progress": 100
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "completed",
+      "description": "Main hero section with headline, subheadline, and call to action for the photography studio"
+    },
+    {
+      "name": "AboutUsSection",
+      "type": "about",
+      "status": "completed",
+      "description": "Section highlighting the studio's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "completed",
+      "description": "Showcase of photography services offered by the studio"
+    },
+    {
+      "name": "ProductsGallery",
+      "type": "gallery",
+      "status": "completed",
+      "description": "Gallery showcasing the studio's photography products"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "testimonials",
+      "status": "completed",
+      "description": "Carousel displaying customer testimonials"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "completed",
+      "description": "Contact form for customer inquiries"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "completed",
+      "description": "Map showing the studio's location"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "completed",
+      "description": "Website footer with links and copyright information"
+    }
+  ],
+  "tokenUsage": {
+    "totalInputTokens": 8163,
+    "totalOutputTokens": 18052,
+    "totalTokens": 26215,
+    "requests": 7
+  }
+}
